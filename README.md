@@ -1,7 +1,7 @@
 # Codecademy Mixed Messages Project
 ### Description: 
 First project on my own and I had to create in JavaScript objects to generate random messages. Using command line, JavaScript, Git version control, and node to get the project completed.
-Learned that I can do this, I had to do some research and help from others to get this completed. I was able to use terminal from start to finish. 
+Learned that I can do this, I had to do some research and figured it out on my own to get this completed. 
 
 ### Features:
 Able to generate random messages. 
